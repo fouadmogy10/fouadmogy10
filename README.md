@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **fouadmogy105@gmail.com**
 
-- 📄 Know about my experiences [https://my-portfolio-nqggymlmy-fouadmogy10.vercel.app/static/media/CV.9f8b16928661682576e0.pdf]([https://portfolio-last-snowy.vercel.app/static/media/CV.9f8b16928661682576e0.pdf](https://drive.google.com/file/d/1foflKtT7BE0R7mPgby6t-87HSJdLHa6s/view))
+- 📄 Know about my experiences [[https://my-portfolio-nqggymlmy-fouadmogy10.vercel.app/static/media/CV.9f8b16928661682576e0.pdf](https://drive.google.com/file/d/1foflKtT7BE0R7mPgby6t-87HSJdLHa6s/view)]([https://portfolio-last-snowy.vercel.app/static/media/CV.9f8b16928661682576e0.pdf](https://drive.google.com/file/d/1foflKtT7BE0R7mPgby6t-87HSJdLHa6s/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
